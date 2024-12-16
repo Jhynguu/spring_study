@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af419364-eeed-404e-9383-41c14eae41ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/DI02/src/main/java/org/example/di/BoardDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/DI02/src/main/java/org/example/di/WriteAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP01/src/main/java/org/example/aop/config/BasicAdvice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP01/src/main/java/org/example/aop/config/BasicAdvice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP01/src/main/java/org/example/aop/model/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP01/src/main/java/org/example/aop/model/TargetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP02/src/main/java/org/example/aop/config/PerformanceAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP02/src/main/java/org/example/aop/model/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP02/src/main/java/org/example/aop/model/HelloBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP03/src/main/java/org/example/aop/config/BasicAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP03/src/main/java/org/example/aop/config/CustomPointcutConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP03/src/main/java/org/example/aop/model/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP03/src/main/java/org/example/aop/model/TargetAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP03/src/main/java/org/example/aop/model/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP03/src/main/java/org/example/aop/model/TodoAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP04/src/main/java/com/example/aop/config/BasicAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP04/src/main/java/com/example/aop/model/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP04/src/main/java/com/example/aop/model/ListAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/AOP04/src/main/java/com/example/aop/model/WriteAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/DI03/src/main/java/org/example/di/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/DI03/src/main/java/org/example/di/model/DatabaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/DI03/src/main/java/org/example/di/model/MySQLDatabaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/DI03/src/main/java/org/example/di/model/OracleDatabaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/DI03/src/main/java/org/example/di/service/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot01/src/main/java/com/example/boot/ArgumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot02/src/main/java/com/example/boot/CustomListener1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot02/src/main/java/com/example/boot/CustomListener2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot02/src/main/java/com/example/boot/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot02/src/main/java/com/example/boot/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot02/src/main/java/com/example/boot/model/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_18/boot02/src/main/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot03/src/main/java/com/example2/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot03/src/main/java/com/example3/model/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc01/src/main/java/com/example/jdbc/Jdbc02Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc01/src/main/java/com/example/jdbc/Jdbc03Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc02/src/main/java/com/example/jdbc/model/DeptDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc02/src/main/java/com/example/jdbc/model/DeptTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc02/src/main/java/com/example/jdbc/model/JdbcDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc03/src/main/java/com/example/jdbc/DeptTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis01/src/main/java/com/example/mybatis/model/DeptTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis01/src/main/java/com/example/mybatis/model/EmpTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis01/src/main/resources/mapper/mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis01/src/main/resources/mapper/mapper2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01/src/main/java/com/example/ex/DataSourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipcode01/src/main/java/com/example/zipcode/model/ZipcodeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipcode01/src/main/java/com/example/zipcode/model/ZipcodeTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipcode02/src/main/java/com/example/zipcode/model/ZipcodeTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipcode02/src/main/resources/mapper/mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis02/src/main/java/com/example/mybatis/dao/MybatisRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis02/src/main/java/com/example/mybatis/dto/DeptTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis02/src/main/java/com/example/mybatis/service/MybatisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis02/src/main/resources/mappers/mapper1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis02/src/main/resources/mappers/mapper2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis03/src/main/java/com/example/mybatis/dto/DeptTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis03/src/main/java/com/example/mybatis/mapper/DeptMybatisMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis03/src/main/java/com/example/mybatis/service/DeptMybatisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/mybatis03/src/main/resources/mappers/mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web01/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web01/src/main/resources/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web02/src/main/webapp/WEB-INF/views/hello1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web03/src/main/java/com/example/web/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web03/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web03/src/main/webapp/WEB-INF/views/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web03/src/main/webapp/WEB-INF/views/form_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web03/src/main/webapp/WEB-INF/views/hello1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web03/src/main/webapp/WEB-INF/views/hello2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web04/src/main/java/com/example/web/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web04/src/main/java/com/example/web/model/JdbcDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web04/src/main/webapp/WEB-INF/views/jdbc1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_20/web05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/java/com/example/board/controller/BoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/java/com/example/board/model/BoardDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/java/com/example/board/model/BoardTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/css/board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/btn_comment_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/btn_search_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/captcha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/demo_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/emoticon/emot50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_facebook.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_faq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_file.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_file_mp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_file_vod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_hot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_re1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_re2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_sct.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/icon_twitter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/test_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/resources/static/images/test_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple0/board_delete1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple0/board_list1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple0/board_modify1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple0/board_view1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple0/board_write1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_delete1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_delete1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_list1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_modify1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_modify1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_view1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_write1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board01/src/main/webapp/WEB-INF/views/design_simple1/board_write1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/java/com/example/board/controller/BoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/java/com/example/board/dao/BoardDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/java/com/example/board/dto/BoardTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/java/com/example/board/mapper/BoardMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/mappers/mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/css/board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/btn_comment_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/btn_search_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/captcha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/demo_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/emoticon/emot50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_facebook.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_faq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_file.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_file_mp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_file_vod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_hot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_re1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_re2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_sct.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/icon_twitter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/test_image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/resources/static/images/test_image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_delete1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_delete1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_list1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_modify1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_modify1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_view1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_write1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/board02/src/main/webapp/WEB-INF/views/design_simple1/board_write1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/web05/src/main/java/com/example/web/controller/JdbcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/web05/src/main/java/com/example/web/dao/JdbcDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/web05/src/main/java/com/example/web/mapper/JdbcMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/web05/src/main/resources/mappers/mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/zipcode04/src/main/java/com/example/zipcode/controller/ZipcodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/zipcode04/src/main/java/com/example/zipcode/mapper/ZipcodeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/zipcode04/src/main/java/com/example/zipcode/model/ZipcodeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_21/zipcode04/src/main/java/com/example/zipcode/model/ZipcodeTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_11/Model2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_12/BoardEx02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_12/BoardEx02/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ex01">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ex" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2p9SXpDBBvMHPoASu4GeWSCxGdp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/java/2024_11_19/study",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ex01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ex.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ex.Ex01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af419364-eeed-404e-9383-41c14eae41ea" name="Changes" comment="" />
+      <created>1732176840630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732176840630</updated>
+      <workItem from="1732176841679" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
