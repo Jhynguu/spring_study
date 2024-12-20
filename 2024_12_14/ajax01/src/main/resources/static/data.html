@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ajax와 Spring REST API</title>
+</head>
+<body>
+    <button id="loadData">데이터 가져오기</button>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById("loadData").addEventListener("click", function () {
+            fetch("/api/data")
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("result").innerHTML = `
+                        <h2>${data.title}</h2>
+                        <p>${data.content}</p>
+                    `;
+                })
+                .catch(error => console.error("Error:", error));
+        });
+    </script>
+</body>
+</html>
